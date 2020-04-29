@@ -1,10 +1,10 @@
 # 9Sinif-4Odev
 ## Bu ödevi bitirdim.
 ## Habil_Altinel_9Sinif_4Odev.ipynb'den ödevime bakabilirsiniz.
-## Çapa Fen Lisesi 9.Sınıf Fizik Dersi 4.Ödevi
+### Çapa Fen Lisesi 9.Sınıf Fizik Dersi 4.Ödevi
 
-## Ödevin bitiş tarihi 29 Nisan Çarşamba saat 23.00'dür. 
-## Yönergeler
+### Ödevin bitiş tarihi 29 Nisan Çarşamba saat 23.00'dür. 
+### Yönergeler
 1) Bu ödevi kendi Github hesabınıza forklayın. 
 2) Herhangi bir tarayacıdan kendi Google hesabınıza girin (mesela e-mail hesabınıza girin.) Daha sonra ```9Sinif_4Odev.ipynb``` dosyası üzerine tıklayın. Yeni bir pencerende açılacak ve en üst sayfanın ortasında *Open in Colab* yazısı gözükecek. Üzerine açıp tıkladığınızda bu dosya kendi hesabınızda açılacak ve Colab kullanmaya hazır hale geleceksin.
 3) Colab işlemleri yaparken kendi sunucusu üzerindeki donanım ve yazılımları kullanmaktadır. Kendi bilgisayarına Python'u kurmaya gerek yok. İşlemcinin hızı da önemli değil. 

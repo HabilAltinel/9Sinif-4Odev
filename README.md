@@ -1,6 +1,6 @@
 # 9Sinif-4Odev
 ## Bu ödevi bitirdim.
-## Habil_Altinel_4Odev.pyinb'den ödevime bakabilirsiniz.
+## Habil_Altinel_9Sinif_4Odev.pyinb'den ödevime bakabilirsiniz.
 ## Çapa Fen Lisesi 9.Sınıf Fizik Dersi 4.Ödevi
 
 ## Ödevin bitiş tarihi 29 Nisan Çarşamba saat 23.00'dür. 
